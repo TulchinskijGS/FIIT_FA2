@@ -1,0 +1,15 @@
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/obj/Debug/net10.0/TreeDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/obj/Debug/net10.0/TreeDataStructures.AssemblyInfoInputs.cache
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/obj/Debug/net10.0/TreeDataStructures.AssemblyInfo.cs
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/obj/Debug/net10.0/TreeDataStructures.csproj.CoreCompileInputs.cache
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/obj/Debug/net10.0/TreeDataStructures.sourcelink.json
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/bin/Debug/net10.0/TreeDataStructures
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/obj/Debug/net10.0/TreeDataStructures.dll
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/obj/Debug/net10.0/refint/TreeDataStructures.dll
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/obj/Debug/net10.0/TreeDataStructures.pdb
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/bin/Debug/net10.0/TreeDataStructures.deps.json
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/bin/Debug/net10.0/TreeDataStructures.runtimeconfig.json
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/bin/Debug/net10.0/TreeDataStructures.dll
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/bin/Debug/net10.0/TreeDataStructures.pdb
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/obj/Debug/net10.0/TreeDataStructures.genruntimeconfig.cache
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/obj/Debug/net10.0/ref/TreeDataStructures.dll

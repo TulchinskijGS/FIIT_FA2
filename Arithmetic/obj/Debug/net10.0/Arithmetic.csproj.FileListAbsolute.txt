@@ -1,0 +1,15 @@
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/Arithmetic/obj/Debug/net10.0/Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/Arithmetic/obj/Debug/net10.0/Arithmetic.AssemblyInfoInputs.cache
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/Arithmetic/obj/Debug/net10.0/Arithmetic.AssemblyInfo.cs
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/Arithmetic/obj/Debug/net10.0/Arithmetic.csproj.CoreCompileInputs.cache
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/Arithmetic/obj/Debug/net10.0/Arithmetic.sourcelink.json
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/Arithmetic/bin/Debug/net10.0/Arithmetic
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/Arithmetic/bin/Debug/net10.0/Arithmetic.deps.json
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/Arithmetic/bin/Debug/net10.0/Arithmetic.runtimeconfig.json
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/Arithmetic/bin/Debug/net10.0/Arithmetic.dll
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/Arithmetic/bin/Debug/net10.0/Arithmetic.pdb
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/Arithmetic/obj/Debug/net10.0/Arithmetic.dll
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/Arithmetic/obj/Debug/net10.0/refint/Arithmetic.dll
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/Arithmetic/obj/Debug/net10.0/Arithmetic.pdb
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/Arithmetic/obj/Debug/net10.0/Arithmetic.genruntimeconfig.cache
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/Arithmetic/obj/Debug/net10.0/ref/Arithmetic.dll

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+rAt8iWZ91s=",
+  "success": true,
+  "projectFilePath": "/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/TreeDataStructures.csproj",
+  "expectedPackageFiles": [
+    "/home/tulchinskij/.nuget/packages/microsoft.dotnet.ilcompiler/10.0.12/microsoft.dotnet.ilcompiler.10.0.12.nupkg.sha512",
+    "/home/tulchinskij/.nuget/packages/microsoft.net.illink.tasks/10.0.12/microsoft.net.illink.tasks.10.0.12.nupkg.sha512",
+    "/home/tulchinskij/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/10.0.12/runtime.linux-x64.microsoft.dotnet.ilcompiler.10.0.12.nupkg.sha512",
+    "/home/tulchinskij/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/10.0.12/microsoft.netcore.app.runtime.linux-x64.10.0.12.nupkg.sha512",
+    "/home/tulchinskij/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/10.0.12/microsoft.aspnetcore.app.runtime.linux-x64.10.0.12.nupkg.sha512",
+    "/home/tulchinskij/.nuget/packages/microsoft.netcore.app.runtime.nativeaot.linux-x64/10.0.12/microsoft.netcore.app.runtime.nativeaot.linux-x64.10.0.12.nupkg.sha512",
+    "/home/tulchinskij/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/10.0.12/runtime.linux-x64.microsoft.dotnet.ilcompiler.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

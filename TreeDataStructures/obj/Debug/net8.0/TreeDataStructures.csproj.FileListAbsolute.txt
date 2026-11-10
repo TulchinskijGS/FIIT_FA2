@@ -1,0 +1,5 @@
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/obj/Debug/net8.0/TreeDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/obj/Debug/net8.0/TreeDataStructures.AssemblyInfoInputs.cache
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/obj/Debug/net8.0/TreeDataStructures.AssemblyInfo.cs
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/obj/Debug/net8.0/TreeDataStructures.csproj.CoreCompileInputs.cache
+/home/tulchinskij/FIIT_FA_2/FIIT_FA/TreeDataStructures/obj/Debug/net8.0/TreeDataStructures.sourcelink.json
